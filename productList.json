@@ -1,0 +1,222 @@
+{
+"product": [
+    {
+        "_id": "6654963869594d38f2f5b21f",
+        "name": "Cheese Lavaaa",
+        "description": "Mouth watering Premium Beef, smoked bologna, molten cheese and house spicy sauce in buttery bun",
+        "price": 3.49,
+        "keyword":["Burger","Juicy Burger"],
+        "image_path": "http://5.9.147.58:3333/public/product_images/1716819509859-cheese_lava.png",
+        "company_id": {
+            "_id": "6661a0ef23aa5fc47f9a816f",
+            "name": "TEST",
+            "description": "TEST",
+            "category_ids": [
+            {
+                "_id": "6654813d66b3ad23628a94b2",
+                "name": "Food & Drinks",
+                "description": "The 'Food & Drinks' category encompasses all topics related to food, dine, and cafes.",
+                "is_active": true,
+                "created_at": "2024-05-27T12:49:01.955Z",
+                "__v": 0
+            }
+            ],
+            "company_logo": "company_logos/1717674223310-5(1).jpg",
+            "website_url": "GOOGLE.COM",
+            "company_email": "test2@gmail.com",
+            "company_contact": "03344474733",
+            "location_details": [
+            {
+                "name": "Gulberg Branch",
+                "address": "Fountain Avenue, Main Boulevard Gulberg, Gulberg 2, Lahore",
+                "latitude": 31.520006,
+                "longitude": 74.400072
+            }
+            ],
+            "is_active": true,
+            "created_at": "2024-06-06T11:43:43.314Z",
+            "__v": 0
+        },
+        "category_id": {
+            "_id": "6654813d66b3ad23628a94b2",
+            "name": "Food & Drinks",
+            "description": "The 'Food & Drinks' category encompasses all topics related to food, dine, and cafes.",
+            "is_active": true,
+            "created_at": "2024-05-27T12:49:01.955Z",
+            "__v": 0
+        },
+        "subcategory_id": {
+            "_id": "6654817166b3ad23628a94b4",
+            "name": "Burger",
+            "category_id": "6654813d66b3ad23628a94b2",
+            "description": "Juicy burgers",
+            "is_active": true,
+            "created_at": "2024-05-27T12:49:53.792Z",
+            "__v": 0
+        },
+        "sticker_path": "http://5.9.147.58:3333/public/sticker_images/1716819512858-edited-cheese_lava.png",
+        "is_active": true,
+        "created_at": "2024-05-27T14:18:32.862Z",
+        "__v": 0
+        },
+        {
+        "_id": "665496e169594d38f2f5b226",
+        "name": "Mozzerella Bitessss",
+        "description": "!2 pcs cheesy bites that melt in your mouthllll",
+        "price": 22.22,
+        "keyword":["Mozzerella Bitessss","cheesy bites"],
+        "image_path": "http://5.9.147.58:3333/public/product_images/1716819677975-mozeralla_bites.png",
+        "company_id": {
+            "_id": "66619f3f4a93ff5f95401110",
+            "name": "Otto The Burger Shacks",
+            "description": "Our burgers are more than just a meal; they're an experience you won't forget. Come indulge at Otto where the perfect bond of flavors meets your cravings.",
+            "category_ids": [
+            {
+                "_id": "6654813d66b3ad23628a94b2",
+                "name": "Food & Drinks",
+                "description": "The 'Food & Drinks' category encompasses all topics related to food, dine, and cafes.",
+                "is_active": true,
+                "created_at": "2024-05-27T12:49:01.955Z",
+                "__v": 0
+            }
+            ],
+            "company_logo": "company_logos/1717673791336-1715774443322-ottologo.jpg",
+            "website_url": "https://www.instagram.com/otto.tbs/?hl=en",
+            "company_email": "ottotheburgershack@gmail.com",
+            "company_contact": "04235781919",
+            "location_details": [
+            {
+                "name": "Gulberg Branch",
+                "address": "Fountain Avenue, Main Boulevard Gulberg, Gulberg 2, Lahore",
+                "latitude": 31.484337,
+                "longitude": 74.323732
+            }
+            ],
+            "is_active": true,
+            "created_at": "2024-06-06T11:36:31.356Z",
+            "__v": 0
+        },
+        "category_id": {
+            "_id": "6657651a069325a41608a9b5",
+            "name": "Clothing",
+            "description": "The 'clothing' category encompasses all topics related to cloth, design, and appearence.",
+            "is_active": true,
+            "created_at": "2024-05-29T17:25:46.049Z",
+            "__v": 0
+        },
+        "subcategory_id": {
+            "_id": "6654818666b3ad23628a94b6",
+            "name": "Sides",
+            "category_id": "6654813d66b3ad23628a94b2",
+            "description": "side menu items",
+            "is_active": true,
+            "created_at": "2024-05-27T12:50:14.240Z",
+            "__v": 0
+        },
+        "sticker_path": "http://5.9.147.58:3333/public/sticker_images/1716819681405-edited-mozeralla_bites.png",
+        "is_active": true,
+        "created_at": "2024-05-27T14:21:21.408Z",
+        "__v": 0
+        }, {
+    "_id": "dfbfdfbfdbfv",
+    "name": "samsung",
+    "description": "!2 pcs samsung that samsung in your samsung",
+    "price": 22.22,
+    "keyword":["Samsung","samsung"],
+    "image_path": "http://5.9.147.58:3333/public/product_images/1716819677dfdf975-mozeralla_bites.png",
+    "company_id": {
+        "_id": "dsffdfdfsf",
+        "name": "Otto The samsung Shacks",
+        "description": "Our samsung are more than just a samsung; they're an experience you won't forget. Come indulge at Otto where the perfect bond of samsung meets your cravings.",
+        "category_ids": [
+        {
+            "_id": "sdfddserfrg",
+            "name": "samsung & samsung",
+            "description": "The 'samsung & samsung' category encompasses all topics related to samsung, samsung, and samsung.",
+            "is_active": true,
+            "created_at": "2024-05-27fdhhT12:49:01.955Z",
+            "__v": 0
+        }
+        ],
+        "company_logo": "company_logos/1717673791336-1715774443322-ottologo.jpg",
+        "website_url": "https://www.instagram.com/otto.tbs/?hl=en",
+        "company_email": "ottothesamsunghack@gmail.com",
+        "company_contact": "04235781919",
+        "location_details": [
+        {
+            "name": "Gulberg Branch",
+            "address": "Fountain Avenue, Main Boulevard Gulberg, Gulberg 2, Lahore",
+            "latitude": 33.720001,
+            "longitude": 73.059998
+        }
+        ],
+        "is_active": true,
+        "created_at": "2024-06-06T11:36:31.356Z",
+        "__v": 0
+    },
+    "category_id": {
+        "_id": "6657651a06932dfhgdfgfg5a41608a9b5",
+        "name": "Clothing",
+        "description": "The 'clothing' category encompasses all topics related to cloth, design, and appearence.",
+        "is_active": true,
+        "created_at": "2024-05-29T17:25:46.049Z",
+        "__v": 0
+    },
+    "subcategory_id": {
+        "_id": "6654818666fdhfgb3ad23628a94b6",
+        "name": "Sides",
+        "category_id": "6654dfgf813d66b3ad23628a94b2",
+        "description": "side menu items",
+        "is_active": true,
+        "created_at": "2024-05-27T12:50:14.240Z",
+        "__v": 0
+    },
+    "sticker_path": "http://5.9.147.58:3333/public/sticker_images/1716819681405-edited-mozeralla_bites.png",
+    "is_active": true,
+    "created_at": "2024-05-27T14:21:21.408Z",
+    "__v": 0
+    },
+    {
+        "_id": "not_found_id",
+        "name": "NOT FOUND",
+        "description": "This product is returned when no similar products are found.",
+        "price": 0,
+        "keyword": ["not found"],
+        "image_path": "",
+        "company_id": {
+          "_id": "not_found_company_id",
+          "name": "Not Found Company",
+          "description": "This is a placeholder company for not found products.",
+          "category_ids": [],
+          "company_logo": "",
+          "website_url": "",
+          "company_email": "",
+          "company_contact": "",
+          "location_details": [],
+          "is_active": true,
+          "created_at": "",
+          "__v": 0
+        },
+        "category_id": {
+          "_id": "not_found_category_id",
+          "name": "Not Found Category",
+          "description": "This is a placeholder category for not found products.",
+          "is_active": true,
+          "created_at": "",
+          "__v": 0
+        },
+        "subcategory_id": {
+          "_id": "not_found_subcategory_id",
+          "name": "Not Found Subcategory",
+          "description": "This is a placeholder subcategory for not found products.",
+          "is_active": true,
+          "created_at": "",
+          "__v": 0
+        },
+        "sticker_path": "",
+        "is_active": true,
+        "created_at": "",
+        "__v": 0
+      }      
+]
+  }
